@@ -1,7 +1,6 @@
 </a>![Jacob Mish](https://github.com/Feromond/feromond/assets/53460081/12988e16-87f6-4626-9fe4-9b9cc6957898)
 
 
-<br/>  
 
 ## Hey 👋, I'm Jacob Mish  
   
@@ -21,19 +20,6 @@ I am a passionate data professional with a strong focus on machine learning and 
 
 I enjoy working on small passion projects in my free time, typically while also trying to learn some sort of new tool. I am constantly learning and trying new things and will hopefully develop some cool projects in the future.  
   
-
-<br/>  
-
-
-
-- 🔭 I’m currently working on [Hypixel Bazzar API](https://github.com/Feromond/hypixel-bazaar-api)  
-  
-
-- 🌱 I’m currently learning Rust and OpenGL  
-
-
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -59,21 +45,21 @@ I enjoy working on small passion projects in my free time, typically while also 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=feromond&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=feromond&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feromond&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feromond&hide_border=true&layout=compact" align="right" style="width: 45%" />
+
+
 
 <br/>  
 
   
 
 <br/>  
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=feromond&&style=flat-square)  
   
