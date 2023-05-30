@@ -41,6 +41,21 @@ I enjoy working on small passion projects in my free time, typically while also 
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
 </div>  
 
+
+<details>
+<summary>More Skills</summary>
+<br>
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Package-Sklearn-informational?style=flat&logo=Sklearn&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Package-Scipy-informational?style=flat&logo=Scipy&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/NLP-HuggingFace-informational?style=flat&logo=HuggingFace&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Visualization-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Visualization-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://img.shields.io/badge/Visualization-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=4AB197" />
+</details>
+
 <br/>  
 
 ## 📌 Pinned Repositories
@@ -76,7 +91,6 @@ I enjoy working on small passion projects in my free time, typically while also 
 
 <br/>  
 
-  
 
 <br/>  
 
