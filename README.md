@@ -43,15 +43,35 @@ I enjoy working on small passion projects in my free time, typically while also 
 
 <br/>  
 
+## 📌 Pinned Repositories
 
-## Github Stats  
+<a href="https://github.com/zamaniali1995/ml-pipeline">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
+<a href="https://github.com/Feromond/FilteringTechniques">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=filteringtechniques&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=feromond&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
+<a href="https://github.com/Feromond/MoodTrackerJavaEdition">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=moodtrackerjavaedition&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
+<a href="https://github.com/Feromond/fft_rust">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=fft_rust&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feromond&hide_border=true&layout=compact" align="right" style="width: 45%" />
+<a href="https://github.com/Feromond/hypixel-bazaar-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=hypixel-bazaar-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
+<br/>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/feromond">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=feromond&show_icons=true&theme=synthwave&count_private=true" alt="Jacob's Github Stats" />
+</a>
 
 
 <br/>  
