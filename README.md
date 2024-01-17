@@ -19,9 +19,13 @@
 
 
 ### Glad to see you here!  
-I am a passionate data professional with a strong focus on machine learning and data science. My educational background in geophysics and computer science has provided me with a unique perspective in tackling complex data-related challenges. Proficient in programming languages like Python, Java, and Rust, and experienced in using libraries such as Numpy, Pandas, Tensorflow, and Pytorch. My expertise includes developing ML models, creating efficient data pipelines, and utilizing cloud computing platforms like AWS and Azure. I have a strong track record of success, including predicting rock permeability with 94% accuracy and detecting geohazards using CNNs. With excellent communication and collaboration skills, I am able to effectively convey complex technical information and work well with cross-functional teams in a diverse range of projects. 
+I'm Jacob Mish, a professional in the field of data and machine learning with a genuine passion for discovering how technology can simplify and solve complex problems. My background in Geophysics has instilled in me a strong analytical mindset and a keen attention to detail, qualities that I bring to every project I undertake.
 
-I enjoy working on small passion projects in my free time, typically while also trying to learn some sort of new tool. I am constantly learning and trying new things and will hopefully develop some cool projects in the future.  
+In my career, I've had the opportunity to engage with a variety of programming languages and data science tools, constantly learning and adapting to meet the needs of each new challenge. While I've enjoyed the process of developing solutions and automating tasks to drive efficiency, I believe the true reward comes from working collaboratively, sharing insights, and learning from the diverse perspectives of team members.
+
+Outside of my professional roles, I dedicate time to personal projects and keeping up with the latest trends in technology. This not only fuels my creativity but also ensures that I remain connected with the ever-evolving tech landscape.
+
+I approach my work with a balanced mix of curiosity, diligence, and a humble attitude, always ready to roll up my sleeves and tackle the next challenge. To me, success is not just about achieving personal goals, but also about contributing to a larger purpose and making a positive impact through my work. 
   
 
 
