@@ -75,21 +75,23 @@ I approach my work with a balanced mix of curiosity, diligence, and a humble att
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=jacob-mish-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/Feromond/rust_snake_game">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=rust_snake_game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/Feromond/FilteringTechniques">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=filteringtechniques&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Feromond/MoodTrackerJavaEdition">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=moodtrackerjavaedition&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Feromond/hypixel-bazaar-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=hypixel-bazaar-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Feromond/fft_rust">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=fft_rust&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Feromond/hypixel-bazaar-api">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=hypixel-bazaar-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 
 <br/>
 
