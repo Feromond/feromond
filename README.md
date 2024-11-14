@@ -67,20 +67,20 @@ I approach my work with a balanced mix of curiosity, diligence, and a humble att
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/zamaniali1995/ml-pipeline">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 <a href="https://github.com/Feromond/jacobs-portfolio-v2">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=jacobs-portfolio-v2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Feromond/jacob-mish-portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=jacob-mish-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 <a href="https://github.com/Feromond/rust_snake_game">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=rust_snake_game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Feromond/hypixel-api-lib">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=hypixel-api-lib&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/zamaniali1995/ml-pipeline">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Feromond/FilteringTechniques">
