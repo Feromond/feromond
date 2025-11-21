@@ -53,6 +53,7 @@ Outside of work, I regularly explore new tools, contribute to personal projects,
 
 ---
 
+<!-- 
 ## 📌 Pinned Projects
 
 <a href="https://github.com/Feromond/budget_tracker_tui">
@@ -78,8 +79,8 @@ Outside of work, I regularly explore new tools, contribute to personal projects,
 <a href="https://github.com/Feromond/FilteringTechniques">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=feromond&repo=filteringtechniques&theme=react&bg_color=1A2B34&title_color=ffffff&text_color=c9cacc" />
 </a>
+-->
 
----
 
 ## 📊 GitHub Stats
 
