@@ -21,7 +21,7 @@
 I'm **Jacob Mish**, a software engineer focused on **data engineering, machine learning, and backend development**.  
 With a strong analytical background (originally in *Geophysics*), I love solving complex technical problems, automating workflows, and building clean, scalable systems.
 
-I enjoy working across the stack—from **Rust** systems projects, to **Python** data pipelines, to **SwiftUI** personal apps.  
+I enjoy working across the stack, from **Rust** systems projects, to **Python** data pipelines, to **SwiftUI** personal apps.  
 Outside of work, I regularly explore new tools, contribute to personal projects, and keep up with the evolving tech landscape.
 
 ---
